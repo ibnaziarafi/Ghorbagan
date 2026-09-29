@@ -1,9 +1,15 @@
 # Flutter Plant App
 
 
-## Getting Started
+## Screenshots
 
-![video 08](https://user-images.githubusercontent.com/33403844/152975357-dfeae391-e6bf-4392-97d5-fce229e8869d.png)
+| Plant shop | Discover |
+| :---: | :---: |
+| <img src="docs/screenshots/plant-shop.jpg" alt="Plant shop with plant categories and accessories" width="280"> | <img src="docs/screenshots/discover.jpg" alt="Discover dashboard with plant recognition, diagnosis, and light meter" width="280"> |
+
+| My plants | Care schedule |
+| :---: | :---: |
+| <img src="docs/screenshots/my-plants.jpg" alt="My plants organized into indoor and outdoor sites" width="280"> | <img src="docs/screenshots/care-schedule.jpg" alt="Plant care schedule with watering and misting reminders" width="280"> |
 
 ## Local configuration
 
